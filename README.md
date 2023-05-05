@@ -1,4 +1,4 @@
-# Sales-Insigts - Adventures-Work
+# Sales Insigts - Adventures-Work
 
 # Objective
 Creating a report from set of records and overview it without any errors is a tough challenge.
